@@ -1,0 +1,86 @@
+[
+  {
+    "firstName": "Alice",
+    "lastName": "Johnson",
+    "email": "alice.johnson@gmail.com",
+    "accountNumber": "12345678",
+    "balance": 1500
+  },
+  {
+    "firstName": "Bob",
+    "lastName": "Williams",
+    "email": "bob.williams@yahoo.com",
+    "accountNumber": "87654321",
+    "balance": 2000
+  },
+  {
+    "firstName": "Charlie",
+    "lastName": "Miller",
+    "email": "charlie.miller@facebook.com",
+    "accountNumber": "11112222",
+    "balance": 1800
+  },
+  {
+    "firstName": "Diana",
+    "lastName": "Thompson",
+    "email": "diana.thompson@google.com",
+    "accountNumber": "33334444",
+    "balance": 2500
+  },
+  {
+    "firstName": "Edward",
+    "lastName": "Lee",
+    "email": "edward.lee@gmail.com",
+    "accountNumber": "55556666",
+    "balance": 1200
+  },
+  {
+    "firstName": "Fiona",
+    "lastName": "Brown",
+    "email": "fiona.brown@yahoo.com",
+    "accountNumber": "77778888",
+    "balance": 1600
+  },
+  {
+    "firstName": "George",
+    "lastName": "Carter",
+    "email": "george.carter@facebook.com",
+    "accountNumber": "99990000",
+    "balance": 2100
+  },
+  {
+    "firstName": "Helen",
+    "lastName": "Clark",
+    "email": "helen.clark@google.com",
+    "accountNumber": "12121212",
+    "balance": 1400
+  },
+  {
+    "firstName": "Ian",
+    "lastName": "Smith",
+    "email": "ian.smith@yahoo.com",
+    "accountNumber": "34343434",
+    "balance": 1900
+  },
+  {
+    "firstName": "Jasmine",
+    "lastName": "Jones",
+    "email": "jasmine.jones@gmail.com",
+    "accountNumber": "56565656",
+    "balance": 1700
+  },
+  {
+    "firstName": "Kevin",
+    "lastName": "Harris",
+    "email": "kevin.harris@facebook.com",
+    "accountNumber": "78787878",
+    "balance": 1500
+  },
+  {
+    "firstName": "Linda",
+    "lastName": "Johnson",
+    "email": "linda.johnson@google.com",
+    "accountNumber": "90909090",
+    "balance": 2200
+  }
+]

@@ -1,0 +1,29 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  width="64"
+  height="64"
+  viewBox="0 0 64 64"
+  fill="none"
+>
+  <g id="SVGRepo_bgCarrier" stroke-width="0"></g>
+  <g
+    id="SVGRepo_tracerCarrier"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+  ></g>
+  <g id="SVGRepo_iconCarrier">
+    <rect width="64" height="64" rx="12" fill="#206FBF"></rect>
+    <g id="icon" fill="white" text-anchor="middle">
+      <text
+        x="50%"
+        y="50%"
+        dy=".3em"
+        font-family="sans-serif"
+        font-size="28"
+        font-weight="bold"
+      >
+        HB
+      </text>
+    </g>
+  </g>
+</svg>
