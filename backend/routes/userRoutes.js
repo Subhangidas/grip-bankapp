@@ -62,7 +62,7 @@ async function createFakeData() {
     if (existingUsers.length === 0) {
       // If no existing data, then create and save fake data
       const jsonContent = await fs.readFile(
-        path.join(currentDirectory, 'fakeData.json'),
+        path.join(currentDirectory, 'userdata.json'),
         { encoding: 'utf-8' }
       );
       const fakeData = JSON.parse(jsonContent);
